@@ -5,8 +5,7 @@ This project is a self driving car based on raspberry pi and tensorflow CNN netw
 
 
 <img src="./gallery/raspberry_pi_car.jpg" width="430"/>
-
-<video src="./gallery/self_driving.mp4" width="360"><video/>
+<img src="./gallery/self_driving.gif" width="430"/>
 
 
 ## Parts used
