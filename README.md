@@ -1,4 +1,4 @@
-# AI-project
+# self-driving-car-raspberry
 
 ## General description
 This project is a self driving car based on raspberry pi and tensorflow CNN network designed to drive around user created tracks bounds.
@@ -6,11 +6,8 @@ This project is a self driving car based on raspberry pi and tensorflow CNN netw
 
 <img src="./gallery/raspberry_pi_car.jpg" width="430"/>
 
-<video width="430" height="340" controls>
-  <source src="./gallery/self_driving.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+<video src="./gallery/self_driving.mp4" width="360"><video/>
+
 
 ## Parts used
 1. Raspberry Pi model 4B
