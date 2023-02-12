@@ -17,7 +17,7 @@ if(os.path.exists(drivePath) == False):
 currentDriveSeqPath = drivePath + "drive_" + str(len(next(os.walk(drivePath))[1])+1) + "/"
 os.mkdir(currentDriveSeqPath)
 
-model = load_model('model_training/model/lane_navigation_check.h5')
+model = load_model('../model/lane_navigation_check.h5')
 
 def predict(image)->int:
     Y_pred = model.predict([image])

@@ -33,6 +33,8 @@ use commands:
 3. replace model in script and run:
 `python autodrive.py`
 
-   
-
+## Instal packages on raspberry
+`pip install -r requirements.txt`
+download .whl with tensorflow build matching CPU architecture, then
+`pip install tensorflow-2.5.0-cp37-none-linux_armv7l.whl`
 
