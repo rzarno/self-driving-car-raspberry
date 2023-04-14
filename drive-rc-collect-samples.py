@@ -8,7 +8,7 @@ camera = PiCamera()
 
 seqJson = {"sequence": []}
 
-sequencesPath = "./samples/"
+sequencesPath = "./sequences/"
 
 if(os.path.exists(sequencesPath) == False):
   os.mkdir(sequencesPath)
